@@ -3,7 +3,6 @@
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
@@ -21,10 +20,6 @@
   </p>
 </div>
 
-
-
-<!-- ABOUT THE PROJECT -->
-## About The Project
 <img src="images/screenshot.png" alt="screenshot" width="100%">
 It's as simple as it sounds... Scan the QR Code, and the HTML file containing snake will render. Reload to try again!
 
@@ -34,13 +29,6 @@ It's as simple as it sounds... Scan the QR Code, and the HTML file containing sn
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
-
-<!-- CONTACT -->
-## Contact
-
-Klinefelters - klinefelters@etown.edu
-
-Project Link: [https://github.com/klinefelters/QR-Snake](https://github.com/klinefelters/QR-Snake)
 
 [contributors-shield]: https://img.shields.io/github/contributors/klinefelters/QR-Snake.svg?style=for-the-badge
 [contributors-url]: https://github.com/klinefelters/QR-Snake/graphs/contributors
