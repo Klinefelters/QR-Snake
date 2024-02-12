@@ -13,7 +13,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/klinefelters/QR-Snake">
-    <img src="images/logo.png" alt="Logo" width="150" height="150">
+    <img src="snake-qr-code.png" alt="qr code" width="250" height="250">
   </a>
 <h3 align="center">QR-Snake</h3>
   <p align="center">
@@ -26,7 +26,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 <img src="images/screenshot.png" alt="screenshot" width="100%">
-<img src="snake-qr-code.png" alt="screenshot" width="50%">
 
 
 
