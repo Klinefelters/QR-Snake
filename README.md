@@ -26,7 +26,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 <img src="images/screenshot.png" alt="screenshot" width="100%">
-
+It's as simple as it sounds... Scan the QR Code, and the HTML file containing snake will render. Reload to try again!
 
 
 <!-- LICENSE -->
