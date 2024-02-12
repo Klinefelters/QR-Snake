@@ -25,8 +25,8 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-<img src="images/screenshot.png" alt="screenshot" width="960" height="540">
-<img src="snake-qr-code.png" alt="screenshot" width="960" height="540">
+<img src="images/screenshot.png" alt="screenshot" width="1920" height="1080">
+<img src="snake-qr-code.png" alt="screenshot" width="540" height="540">
 
 
 
