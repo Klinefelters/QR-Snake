@@ -12,7 +12,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/klinefelters/QR-Snake">
-    <img src="snake-qr-code.png" alt="qr code" width="250" height="250">
+    <img src="GH-Pages-QR.png" alt="qr code" width="250" height="250">
   </a>
 <h3 align="center">QR-Snake</h3>
   <p align="center">
